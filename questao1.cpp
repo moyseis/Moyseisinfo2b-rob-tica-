@@ -1,6 +1,4 @@
-Questionario roobotica c++. Data de entrega: 09/07/25
-Resolução do questionário (com a ajuda da IA).
-questão 1:
+
 
 #include <iostream>
 #include <string>
